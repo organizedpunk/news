@@ -22,7 +22,7 @@ exactDate: 2024-9-23
 ---
 
 ### Releases
-- Panther [Testnet 6 is live](https://x.com/ZKPanther/status/1805632128308150560)
+- Nym [NymVPN free beta testing now live](https://blog.nymtech.net/nymvpn-free-beta-testing-now-live-751edfc9bb69)
 - RariMe [Self-custody identity wallet](https://rarime.com)
 - Stack Wallet [2.1.1](https://x.com/stack_wallet/status/1807108936991904044), [GitHub](https://github.com/cypherstack/stack_wallet)
 
